@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+LISTA TAREA REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ES UNA PRUEBAwith [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
